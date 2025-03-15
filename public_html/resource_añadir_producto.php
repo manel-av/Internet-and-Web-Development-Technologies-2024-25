@@ -1,0 +1,1 @@
+<?php require __DIR__.'/controladors/añadir_producto.php'; ?>
