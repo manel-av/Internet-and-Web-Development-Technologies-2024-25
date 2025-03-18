@@ -6,6 +6,12 @@ This course provides an overview of the main technologies for web development. I
 
 ## Practical Work
 
-- **Client-Side Development:** Develop web pages using HTML, CSS, and JavaScript to create interactive user interfaces.
-- **Server-Side Programming:** Implement server-side logic using languages and frameworks suitable for web development.
-- **Web Application Project:** Design and develop a full-stack web application, integrating both front-end and back-end technologies.
+We built an online second-hand marketplace where users could buy and sell used items. The project involved:
+
+- **Front-End Development:** Creating an interactive UI using HTML, CSS, and JavaScript.
+
+- **Back-End Development:** Implementing user authentication, product listings, and transaction management.
+
+- **Database Integration:** Storing user and product data using an SQL database.
+
+- **Deployment:** Making the application accessible online by hosting it on a server.
